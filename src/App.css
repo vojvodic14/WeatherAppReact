@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(100deg, blue, green, yellow);
+}
+.vreme {
+  margin-left: 550px;
+  margin-top: 150px;
+  width: 500px;
+  height: 600px;
+  background-color: blueviolet;
+  border-radius: 20px;
+}
+.input {
+  margin-left: 130px;
+  padding-top: 70px;
+}
+.input input {
+  height: 30px;
+  width: 200px;
+  border-radius: 30px;
+}
+.input button {
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+}
+.input img {
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100px;
+  height: 100px;
+  margin-left: 180px;
+  margin-top: 70px;
+}
+.gradName {
+  margin-left: 200px;
+}
+.stepeni {
+  margin-left: 220px;
+}
+.detalji {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  margin-top: 20px;
+}
+.col {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+.col img {
+  width: 40px;
+  margin-right: 20px;
+}
+.humidity,
+.wind {
+  font-size: 28px;
+  margin-top: -10;
+}
